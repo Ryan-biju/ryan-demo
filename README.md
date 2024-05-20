@@ -1,2 +1,3 @@
 # ryan-demo
-this is my git repository
+This is my Git Repository
+Author - Ryan Biju
